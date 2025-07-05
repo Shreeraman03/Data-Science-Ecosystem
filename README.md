@@ -1,1 +1,1 @@
-# Data-Science-Complete-Course_resource
+# Data-Science-Complete-Course
